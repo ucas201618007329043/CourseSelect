@@ -5,3 +5,5 @@ add12
 123
 
 123
+
+sudo service postgresql start
